@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:0,Sony Liv Hindi  And Logo Url =https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_303/PORTRAIT/tJzfDMRk.png
-JULT TV",The QYOU
-#EXTINF:0,http://flametvadmin.tk/air.php?c=sonyten3hd https://pubads.g.doubleclick.net/ssai/event/cihN52epToSN20WqT8yygA/master.m3u8
-Sony Liv English
-#EXTINF:0,https://pubads.g.doubleclick.net/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
+#EXTINF:0,Sony Liv Hindi
+https://pubads.g.doubleclick.net/ssai/event/cihN52epToSN20WqT8yygA/master.m3u8
+#EXTINF:0,Sony Liv English
+https://pubads.g.doubleclick.net/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
